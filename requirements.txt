@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+git+https://github.com/vivekaprasad/cheemstdl.git
+python-dotenv
+requests
+asgiref
+deezer-python
+spotipy
+git+https://github.com/vivekaprasad/cheemsydl.git
